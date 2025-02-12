@@ -1,5 +1,6 @@
 # Autism Spectrum Disorder Prediction using Deep Neural Network (DNN)
 This repository contains a deep learning project aimed at predicting Autism Spectrum Disorder (ASD) using a Deep Neural Network (DNN). The objective is to develop a model that can classify individuals based on relevant features, providing an early indication of potential ASD.
+
 🧑‍🏫 Introduction
 Autism Spectrum Disorder (ASD) is a developmental disorder characterized by difficulties with social interaction and communication. Early diagnosis and intervention can greatly improve outcomes. This project leverages a Deep Neural Network (DNN) to classify individuals based on features related to ASD diagnosis.
 
